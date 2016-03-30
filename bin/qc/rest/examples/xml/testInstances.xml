@@ -1,0 +1,181 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+ <Entities TotalResults="291">
+	<Entity Type="test-instance">
+		 <Fields>
+			<Field Name="test:step-params-data">
+				<Value>Empty2</Value>
+			</Field>
+			<Field Name="test-instance">
+				<Value>1</Value>
+			</Field>
+			<Field Name="eparams">
+				<Value />
+			</Field>
+			<Field Name="testcycle-ver-stamp">
+				<Value>30</Value>
+			</Field>
+			<Field Name="plan-scheduling-time">
+				<Value />
+			</Field>
+			<Field Name="plan-scheduling-date" />
+			<Field Name="id">
+				<Value>24934</Value>
+			</Field>
+			<Field Name="os-config">
+				<Value />
+			</Field>
+			<Field Name="host-name">
+				<Value />
+			</Field>
+			<Field Name="test-config-id">
+				<Value>7011</Value>
+			</Field>
+			<Field Name="data-obj">
+				<Value />
+			</Field>
+			<Field Name="has-linkage">
+				<Value>N</Value>
+			</Field>
+			<Field Name="pinned-baseline">
+				<Value />
+			</Field>
+			<Field Name="exec-date">
+				<Value>2015-01-05</Value>
+			</Field>
+			<Field Name="cycle-id">
+				<Value>5476</Value>
+			</Field>
+			<Field Name="cycle">
+				<Value />
+			</Field>
+			<Field Name="assign-rcyc">
+				<Value ReferenceValue="R1.55 WDW Test Cycle 1_Stage">1471</Value>
+			</Field>
+			<Field Name="exec-time">
+				<Value>02:25:05</Value>
+			</Field>
+			<Field Name="last-modified">
+				<Value>2015-01-05 02:25:05</Value>
+			</Field>
+			<Field Name="status">
+				<Value>Passed</Value>
+			</Field>
+			<Field Name="iterations">
+				<Value />
+			</Field>
+			<Field Name="actual-tester">
+				<Value>dogra002</Value>
+			</Field>
+			<Field Name="exec-event-handle">
+				<Value />
+			</Field>
+				<Field Name="attachment">
+			<Value />
+			</Field>
+			<Field Name="test-id">
+				<Value>6011</Value>
+			</Field>
+			<Field Name="subtype-id">
+				<Value>hp.qc.test-instance.MANUAL</Value>
+			</Field>
+			<Field Name="test-order">
+				<Value>0</Value>
+			</Field>
+			<Field Name="owner">
+				<Value>jcochems</Value>
+			</Field>
+			<Field Name="bpta-change-awareness">
+				<Value />
+			</Field>
+		 </Fields>
+	</Entity>
+	<Entity Type="test-instance">
+		<Fields>
+			<Field Name="test:step-params-data">
+				<Value>Empty2</Value>
+			</Field>
+			<Field Name="test-instance">
+				<Value>1</Value>
+			</Field>
+			<Field Name="eparams">
+				<Value />
+			</Field>
+			<Field Name="testcycle-ver-stamp">
+				<Value>33</Value>
+			</Field>
+			<Field Name="plan-scheduling-time">
+				<Value />
+			</Field>
+			<Field Name="plan-scheduling-date" />
+				<Field Name="id">
+			<Value>24964</Value>
+			</Field>
+			<Field Name="os-config">
+				<Value />
+			</Field>
+			<Field Name="host-name">
+				<Value />
+			</Field>
+			<Field Name="test-config-id">
+				<Value>12218</Value>
+			</Field>
+			<Field Name="data-obj">
+				<Value />
+			</Field>
+			<Field Name="has-linkage">
+				<Value>N</Value>
+			</Field>
+			<Field Name="pinned-baseline">
+				<Value />
+			</Field>
+			<Field Name="exec-date">
+				<Value>2015-01-02</Value>
+			</Field>
+			<Field Name="cycle-id">
+				<Value>5236</Value>
+			</Field>
+			<Field Name="cycle">
+				<Value />
+			</Field>
+			<Field Name="assign-rcyc">
+				<Value ReferenceValue="R1.55 WDW Test Cycle 1_Stage">1471</Value>
+			</Field>
+			<Field Name="exec-time">
+				<Value>03:35:53</Value>
+			</Field>
+			<Field Name="last-modified">
+				<Value>2015-01-02 03:35:54</Value>
+			</Field>
+			<Field Name="status">
+				<Value>Failed</Value>
+			</Field>
+			<Field Name="iterations">
+				<Value />
+			</Field>
+			<Field Name="actual-tester">
+				<Value>dogra002</Value>
+			</Field>
+			<Field Name="exec-event-handle">
+				<Value />
+			</Field>
+			<Field Name="attachment">
+				<Value />
+			</Field>
+			<Field Name="test-id">
+				<Value>11218</Value>
+			</Field>
+			<Field Name="subtype-id">
+				<Value>hp.qc.test-instance.MANUAL</Value>
+			</Field>
+			<Field Name="test-order">
+				<Value>0</Value>
+			</Field>
+			<Field Name="owner">
+				<Value>colmyers</Value>
+			</Field>
+			<Field Name="bpta-change-awareness">
+				<Value />
+			</Field>
+		 </Fields>
+	</Entity>
+ </Entities>
